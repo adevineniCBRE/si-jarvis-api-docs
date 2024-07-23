@@ -23,7 +23,7 @@ Base URLs:
 
 * <a href="http://localhost:8098">http://localhost:8098</a>
 
-<h1 id="openapi-definition-request-core-controller">Request Core</h1>
+<h1 id="openapi-definition-request-core-controller">Request (Core)</h1>
 
 ## Update the Service Request
 
@@ -6217,7 +6217,7 @@ print(r.json())
 This operation does not require authentication
 </aside>
 
-# Schemas
+# Request Core Schemas
 
 <h2 id="tocS_AttachmentDTO">AttachmentDTO</h2>
 <!-- backwards compatibility -->
