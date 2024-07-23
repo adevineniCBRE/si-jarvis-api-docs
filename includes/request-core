@@ -6,7 +6,7 @@
 <li><a href="http://localhost:8098">http://localhost:8098</a></li>
 </ul>
 
-<h1 id="openapi-definition-request-core-controller">Request Core</h1>
+<h1 id="openapi-definition-request-core-controller">Request (Core)</h1>
 <h2 id='update-the-service-request'>Update the Service Request</h2>
 <p><a id="opIdupdateRequest"></a></p>
 
@@ -20045,7 +20045,7 @@ curl <span class="nt">-X</span> POST http://localhost:8098/request-core/api/v1/c
 <aside class="success">
 This operation does not require authentication
 </aside>
-<h1 id='schemas'>Schemas</h1>
+<h1 id='request-core-schemas'>Request Core Schemas</h1>
 <h2 id="tocS_AttachmentDTO">AttachmentDTO</h2>
 
 <!-- backwards compatibility -->
