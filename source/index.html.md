@@ -29,9 +29,6 @@ meta:
 
 > Scroll down for code samples, example requests and responses. Select a language for code samples from the tabs above or the mobile navigation menu.
 
-
-Introduction
-
 This landing page provides a common area for Jarvis teams to document and store endpoints for all Jarvis services, including Request Core, Request Management, Notification, and others. You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
 
 This API documentation page was created with [Slate](https://github.com/slatedocs/slate).
