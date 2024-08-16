@@ -13,8 +13,11 @@ includes:
   - request-core
   - request-management
   - person-identity
-  - errors
+  - notification
+  - test
   # Add Sections
+  # DO NOT REMOVE ABOVE LINE (for updating script purposes)
+  - errors
 
 search: true
 
